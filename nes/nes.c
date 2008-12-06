@@ -27,7 +27,7 @@
 #include "../ulunzip.h"
 #include "nes_config.h"
 #include "nes_string.h"
-#include "fileio.h"
+#include "../fileio.h"
 
 #include "../debug/debug.h"
 
